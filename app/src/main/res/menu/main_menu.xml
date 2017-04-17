@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group />
+    <item android:id="@+id/menu_test_1" android:title="Item" android:icon="@drawable/contact_fragment_icon_mail" />
+    <item android:id="@+id/menu_test_2" android:title="Item" android:icon="@drawable/contact_fragment_icon_mail" />
+    <item android:id="@+id/menu_test_3" android:title="Item" android:icon="@drawable/contact_fragment_icon_mail" />
+    <item android:id="@+id/menu_test_4" android:title="Item" android:icon="@drawable/contact_fragment_icon_mail" />
+
+</menu>
