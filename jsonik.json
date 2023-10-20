@@ -1,0 +1,34 @@
+{
+  "HosterName": "Nuclearist",
+  "ServerName": "My server",
+  "ClusterName": "My cluster",
+  "IconUrl": "https://example.com/Icon.png",
+  "Discord": "https://discord.gg/47SFqqMBFN",
+  "ServerDescription":
+  {
+    "MaxDinoLvl": 180,
+    "Taming": 2,
+    "Experience": 1,
+    "Harvesting": 6,
+    "Breeding": 1,
+    "Stacks": 1,
+    "Other":
+    [
+        "Some feature specific to this very server"
+    ]
+  },
+  "ClusterDescription":
+  {
+    "MaxDinoLvl": 150,
+    "Taming": 1,
+    "Experience": 1,
+    "Harvesting": 1,
+    "Breeding": 1,
+    "Stacks": 1,
+    "Other":
+    [
+        "Some extra feature of my cluster",
+        "And another one"
+    ]
+  }
+}
